@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:revyos-ros/camera_aravis2-release.git
 tracks:
   humble:
     actions:
